@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.exe
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.deps.json
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.runtimeconfig.json
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.runtimeconfig.dev.json
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.dll
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.pdb
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.AssemblyInfo.cs
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.dll
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.pdb
+C:\Users\hp\source\repos\LambdaExpression\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.genruntimeconfig.cache
