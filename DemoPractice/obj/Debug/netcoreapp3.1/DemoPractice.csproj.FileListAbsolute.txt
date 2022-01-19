@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.exe
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.deps.json
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.runtimeconfig.json
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.runtimeconfig.dev.json
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.dll
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\bin\Debug\netcoreapp3.1\DemoPractice.pdb
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.AssemblyInfo.cs
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.dll
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.pdb
+C:\Users\hp\source\repos\DemoPractice\DemoPractice\obj\Debug\netcoreapp3.1\DemoPractice.genruntimeconfig.cache
